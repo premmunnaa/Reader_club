@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "297482334405",
+    "firebase_url": "https://reader-f0bd8.firebaseio.com",
+    "project_id": "reader-f0bd8",
+    "storage_bucket": "reader-f0bd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297482334405:android:d6b892dc5e7fe9a2",
+        "android_client_info": {
+          "package_name": "com.kefitech.readerclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297482334405-nf6bqdet85iidjpfkf4rvhiu0h754spg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUI2WMO1JmwfsEHuQbRjiBAfzXsJi9fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
